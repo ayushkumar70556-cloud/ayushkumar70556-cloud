@@ -112,8 +112,6 @@ A real, live delivery business: website + Android app.
 <img height="170" src="https://streak-stats.demolab.com?user=ayushkumar70556-cloud&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar70556-cloud&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumar70556-cloud&theme=tokyo-night&hide_border=true&area=true&radius=12" width="96%" alt="Contribution graph" />
-
 </div>
 
 <div align="center">
@@ -121,8 +119,6 @@ A real, live delivery business: website + Android app.
 <br/>
 
 💡 *Always learning, always building.*
-
-<img src="https://komarev.com/ghpvc/?username=ayushkumar70556-cloud&color=0B7A3E&style=flat-square&label=Profile+views" alt="Profile views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:12924C,100:0B7A3E&height=110&section=footer" width="100%" alt="" />
 
